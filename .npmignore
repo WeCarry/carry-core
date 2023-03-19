@@ -1,4 +1,5 @@
 node_modules
+coverage
 src
 *.ts
 *.tsx
@@ -6,5 +7,9 @@ src
 *.log
 *.lock
 *.json
+.env
+.editorconfig
 !package.json
 !tsconfig.json
+*.config.js
+
